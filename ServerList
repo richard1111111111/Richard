@@ -1,4 +1,10 @@
 window.JSON.parse(`[
+{
+    "id": "lobby-mb5pqdpz-v1qfooq5",
+    "region": "fra",
+    "gamemode": "survival",
+    "connectionUrl": "https://abfa6197-28eb-48d3-b31c-ca02e30b4793-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+  },
   {
     "id": "lobby-mb5pqcuj-easkn92q",
     "region": "atl",
