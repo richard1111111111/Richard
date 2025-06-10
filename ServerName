@@ -1,1 +1,1 @@
-window.JSON.parse("{\"atl\":\"Atlanta\",\"fra\":\"Frankfurt\",\"lax\":\"Los Angeles\",\"syd\":\"Sydney\",\"osa\":\"Osaka\"}");
+window.JSON.parse("{\"atl\":\"Atlanta, Georgia\",\"fra\":\"Frankfurt, Deutschland\",\"lax\":\"Los Angeles, California\",\"syd\":\"Sydney, Australia\",\"osa\":\"Osaka, Japan\"}");
