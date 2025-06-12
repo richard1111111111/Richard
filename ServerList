@@ -48,6 +48,12 @@ window.JSON.parse(`[
     "connectionUrl": "https://c02c065c-c9e4-4bd7-8881-a3ca804b85c1-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
   },
   {
+    "id": "lobby-mb5pqsta-q6sk9lj7",
+    "region": "osa",
+    "gamemode": "survival",
+    "connectionUrl": "https://c02c065c-c9e4-4bd7-8181-a3ca804b85c1-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
+  },
+  {
     "id": "lobby-mb5pqta4-qpllf3n9",
     "region": "atl",
     "gamemode": "ghoul",
