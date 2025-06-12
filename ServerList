@@ -3,7 +3,7 @@ window.JSON.parse(`[
     "id": "lobby-mb5pqdpz-v1qfooq5",
     "region": "europe",
     "gamemode": "survival",
-    "connectionUrl": "https://5dc192c0-178b-4c3a-8584-70e85fb8ce69-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
+    "connectionUrl": "https://5dc192c0-178b-4c3a-8584-70e85fb8ce69R-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
   },
   {
     "id": "lobby-mb5pqcuj-easkn92q",
