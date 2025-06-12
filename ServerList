@@ -1,5 +1,5 @@
 window.JSON.parse(`[
-{
+   {
     "id": "lobby-mb5pqdpz-v1qfooq5",
     "region": "europe",
     "gamemode": "survival",
@@ -18,12 +18,6 @@ window.JSON.parse(`[
     "connectionUrl": "https://8b573328-602d-4165-beb7-413b3339454c-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
   },
   {
-    "id": "lobby-mb5pqblb-77hiavx9",
-    "region": "atl",
-    "gamemode": "survival",
-    "connectionUrl": "https://56462cb2-2011-466e-9a50-7612bf6b9845-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
-  },
-  {
     "id": "lobby-mb5pqlv1-67a0g6iq",
     "region": "lax",
     "gamemode": "survival",
@@ -34,7 +28,7 @@ window.JSON.parse(`[
     "region": "lax",
     "gamemode": "survival",
     "connectionUrl": "https://4e717f25-2bee-4f56-8ab2-fe6fee5d6bca-ws.actor.5767a802-5c7c-4563-a266-33c014f7e244.rivet.run"
-  },ф
+  },
   {
     "id": "lobby-mb5pqmad-fdzz32j6",
     "region": "syd",
@@ -51,7 +45,7 @@ window.JSON.parse(`[
     "id": "lobby-mb5pqsta-q6sk9lj7",
     "region": "osa",
     "gamemode": "survival",
-    "connectionUrl": "https://c02c065c-c9e4-4bd7-8181-a3ca804b85c1-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
+    "connectionUrl": "https://c02c065c-c9e4-4bd7-8881-a3ca804b85c1-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
   },
   {
     "id": "lobby-mb5pqta4-qpllf3n9",
