@@ -6,54 +6,6 @@ window.JSON.parse(`[
     "connectionUrl": "https://8b573328-602d-4165-beb7-413b3339454c-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
   },
   {
-    "id": "lobby-mb5pqcuj-easkn92q",
-    "region": "atl",
-    "gamemode": "survival",
-    "connectionUrl": "https://054cc1e6-ff63-43cd-9228-15baa2039ac7-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
-  },
-  {
-    "id": "lobby-mb5pqcen-mgb2nclh",
-    "region": "atl",
-    "gamemode": "survival",
-    "connectionUrl": "https://054cc1e6-ff63-43cd-9228-15baa2039ac7-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
-  },
-  {
-    "id": "lobby-mb5pqlv1-67a0g6iq",
-    "region": "lax",
-    "gamemode": "survival",
-    "connectionUrl": "https://caab7e2f-a111-4290-8ebb-8b5dc74e359a-ws.actor.5767a802-5c7c-4563-a266-33c014f7e244.rivet.run"
-  },
-  {
-    "id": "lobby-mb5pqldu-6v5rzw5t",
-    "region": "lax",
-    "gamemode": "survival",
-    "connectionUrl": "https://4e717f25-2bee-4f56-8ab2-fe6fee5d6bca-ws.actor.5767a802-5c7c-4563-a266-33c014f7e244.rivet.run"
-  },
-  {
-    "id": "lobby-mb5pqmad-fdzz32j6",
-    "region": "syd",
-    "gamemode": "survival",
-    "connectionUrl": "https://55f6ba26-fb0a-49b6-a629-110aa5f72e84-ws.actor.1209b936-a8c3-4ae0-b0f5-8ca555035963.rivet.run"
-  },
-  {
-    "id": "lobby-mb5pqsta-q6sk9lj7",
-    "region": "osa",
-    "gamemode": "survival",
-    "connectionUrl": "https://c02c065c-c9e4-4bd7-8881-a3ca804b85c1-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
-  },
-  {
-    "id": "lobby-mb5pqsta-q6sk9lj7",
-    "region": "osa",
-    "gamemode": "survival",
-    "connectionUrl": "https://c02c065c-c9e4-4bd7-8881-a3ca804b85c1-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
-  },
-  {
-    "id": "lobby-mb5pqta4-qpllf3n9",
-    "region": "atl",
-    "gamemode": "ghoul",
-    "connectionUrl": "https://b6dcaac4-ac24-403b-a7f9-96ab1283349e-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
-  },
-  {
     "id": "lobby-mb5pqtoj-mwh9akwq",
     "region": "fra",
     "gamemode": "ghoul",
