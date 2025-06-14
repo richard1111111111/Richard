@@ -22,5 +22,5 @@ window.JSON.parse(`[
     "region": "atl",
     "gamemode": "ghoul",
     "connectionUrl": "https://b6dcaac4-ac24-403b-a7f9-96ab1283349e-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
-  },
+  }
 ]`);
