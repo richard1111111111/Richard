@@ -40,5 +40,41 @@ window.JSON.parse(`[
     "region": "europe",
     "gamemode": "ghoul",
     "connectionUrl": "https://f30ece92-da79-4aac-af78-c03f9f27db38-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+  },
+  {
+    "id": "lobby-mb5pqtoj-mwh9akwq",
+    "region": "europe",
+    "gamemode": "ghoul",
+    "connectionUrl": "https://f30ece92-da79-4aac-af78-c03f9f27db38-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+  },
+  {
+    "id": "lobby-mb5pqtoj-mwh9akwq",
+    "region": "europe",
+    "gamemode": "ghoul",
+    "connectionUrl": "https://f30ece92-da79-4aac-af78-c03f9f27db38-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+  },
+  {
+    "id": "lobby-mb5pqtoj-mwh9akwq",
+    "region": "europe",
+    "gamemode": "ghoul",
+    "connectionUrl": "https://f30ece92-da79-4aac-af78-c03f9f27db38-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+  },
+  {
+    "id": "lobby-mb5pqtoj-mwh9akwq",
+    "region": "europe",
+    "gamemode": "ghoul",
+    "connectionUrl": "https://f30ece92-da79-4aac-af78-c03f9f27db38-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+  },
+  {
+    "id": "lobby-mb5pqtoj-mwh9akwq",
+    "region": "europe",
+    "gamemode": "ghoul",
+    "connectionUrl": "https://f30ece92-da79-4aac-af78-c03f9f27db38-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+  },
+  {
+    "id": "lobby-mb5pqtoj-mwh9akwq",
+    "region": "europe",
+    "gamemode": "ghoul",
+    "connectionUrl": "https://f30ece92-da79-4aac-af78-c03f9f27db38-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
   }
 ]`);
