@@ -24,12 +24,6 @@ window.JSON.parse(`[
     "connectionUrl": "https://4e717f25-2bee-4f56-8ab2-fe6fee5d6bca-ws.actor.5767a802-5c7c-4563-a266-33c014f7e244.rivet.run"
   },
   {
-    "id": "lobby-mb5pqmad-fdzz32j6",
-    "region": "syd",
-    "gamemode": "survival",
-    "connectionUrl": "https://55f6ba26-fb0a-49b6-a629-110aa5f72e84-ws.actor.1209b936-a8c3-4ae0-b0f5-8ca555035963.rivet.run"
-  },
-  {
     "id": "lobby-mb5pqsta-q6sk9lj7",
     "region": "osa",
     "gamemode": "survival",
