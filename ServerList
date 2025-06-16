@@ -1,11 +1,5 @@
 window.JSON.parse(`[
   {
-    "id": "lobby-mb5pqcuj-easkn92q",
-    "region": "atl",
-    "gamemode": "survival",
-    "connectionUrl": "https://054cc1e6-ff63-43cd-9228-15baa2039ac7-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
-  },
-  {
     "id": "lobby-mb5pqlv1-67a0g6iq",
     "region": "lax",
     "gamemode": "survival",
@@ -16,6 +10,12 @@ window.JSON.parse(`[
     "region": "osa",
     "gamemode": "survival",
     "connectionUrl": "https://c02c065c-c9e4-4bd7-8881-a3ca804b85c1-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
+  },
+  {
+    "id": "lobby-mb5pqtoj-mwh9akwq",
+    "region": "europe",
+    "gamemode": "ghoul",
+    "connectionUrl": "https://f30ece92-da79-4aac-af78-c03f9f27db38-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
   },
   {
     "id": "lobby-mb5pqtoj-mwh9akwq",
