@@ -18,10 +18,10 @@ window.JSON.parse(`[
     "connectionUrl": "https://c02c065c-c9e4-4bd7-8881-a3ca804b85c1-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
   },
   {
-    "id": "lobby-mb5pqq0t-3zyqpkrz",
-    "region": "osa",
-    "gamemode": "survival",
-    "connectionUrl": "https://5dc192c0-178b-4c3a-8584-70e85fb8ce69-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
+    "id": "lobby-mb5pqtoj-mwh9akwq",
+    "region": "europe",
+    "gamemode": "ghoul",
+    "connectionUrl": "https://f30ece92-da79-4aac-af78-c03f9f27db38-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
   },
   {
     "id": "lobby-mb5pqtoj-mwh9akwq",
