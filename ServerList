@@ -4,11 +4,5 @@ window.JSON.parse(`[
     "region": "lax",
     "gamemode": "survival",
     "connectionUrl": "https://caab7e2f-a111-4290-8ebb-8b5dc74e359a-ws.actor.5767a802-5c7c-4563-a266-33c014f7e244.rivet.run"
-  },
-  {
-    "id": "lobby-mb5pqsta-q6sk9lj7",
-    "region": "osa",
-    "gamemode": "survival",
-    "connectionUrl": "https://c02c065c-c9e4-4bd7-8881-a3ca804b85c1-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
   }
 ]`);
