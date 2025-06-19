@@ -1,8 +1,2 @@
 window.JSON.parse(`[
-  {
-    "id": "lobby-mb5pqlv1-67a0g6iq",
-    "region": "lax",
-    "gamemode": "survival",
-    "connectionUrl": "https://caab7e2f-a111-4290-8ebb-8b5dc74e359a-ws.actor.5767a802-5c7c-4563-a266-33c014f7e244.rivet.run"
-  }
 ]`);
