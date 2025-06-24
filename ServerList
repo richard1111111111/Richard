@@ -3,12 +3,12 @@ window.JSON.parse(`[
     "id": "lobby-mc3ilukn-deva9p6o",
     "region": "europe",
     "gamemode": "survival",
-    "connectionUrl": "https://346b976b-0bf3-4d61-ad99-d1b5189e63bdc-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+    "connectionUrl": "https://346b976b-0bf3-4d61-ad99-d1b589e63bdc-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
   },
   {
     "id": "lobby-mc3im12d-pqpnpkuw",
     "region": "europe",
     "gamemode": "ghoul",
-    "connectionUrl": "https://346b976b-0bf3-4d61-ad99-d1b5891e63bdc-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+    "connectionUrl": "https://346b976b-0bf3-4d61-ad99-d1b589e63bdc-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
   }
 ]`);
