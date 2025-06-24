@@ -30,12 +30,6 @@ window.JSON.parse(`[
     "connectionUrl": "https://5546413f-2c75-4d15-80c8-04e229e29e29-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
   },
   {
-    "id": "lobby-mc3ilukn-deva9p6o",
-    "region": "fra",
-    "gamemode": "survival",
-    "connectionUrl": "https://346b976b-0bf3-4d61-ad99-d1b589e63bdc-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
-  },
-  {
     "id": "lobby-mc3iltp3-udgl8jjk",
     "region": "fra",
     "gamemode": "survival",
