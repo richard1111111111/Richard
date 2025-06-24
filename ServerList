@@ -6,9 +6,87 @@ window.JSON.parse(`[
     "connectionUrl": "https://346b976b-0bf3-4d61-ad99-d1b589e63bdc-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
   },
   {
+    "id": "lobby-mc3ilstt-p3afgpwv",
+    "region": "atl",
+    "gamemode": "survival",
+    "connectionUrl": "https://d7939b47-ed59-4feb-9378-ff0c56d1f18e-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
+  },
+  {
+    "id": "lobby-mc3ils9y-40tdl6qs",
+    "region": "atl",
+    "gamemode": "survival",
+    "connectionUrl": "https://fcbcef4f-ee05-4fea-8de0-91333c32ce37-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
+  },
+  {
+    "id": "lobby-mc3ilrn8-6kmv6nmm",
+    "region": "atl",
+    "gamemode": "survival",
+    "connectionUrl": "https://c626d6c2-9476-4a5c-bf2b-e0bc03fec864-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
+  },
+  {
+    "id": "lobby-mc3ilv4e-qkqixhoy",
+    "region": "fra",
+    "gamemode": "survival",
+    "connectionUrl": "https://5546413f-2c75-4d15-80c8-04e229e29e29-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+  },
+  {
+    "id": "lobby-mc3ilukn-deva9p6o",
+    "region": "fra",
+    "gamemode": "survival",
+    "connectionUrl": "https://346b976b-0bf3-4d61-ad99-d1b589e63bdc-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+  },
+  {
+    "id": "lobby-mc3iltp3-udgl8jjk",
+    "region": "fra",
+    "gamemode": "survival",
+    "connectionUrl": "https://2ee44b4c-cecb-40e5-895b-869e551d569d-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+  },
+  {
+    "id": "lobby-mc3ilwax-ndie7fpg",
+    "region": "lax",
+    "gamemode": "survival",
+    "connectionUrl": "https://997de00f-f2bd-44a2-a5cc-7b2125c87277-ws.actor.5767a802-5c7c-4563-a266-33c014f7e244.rivet.run"
+  },
+  {
+    "id": "lobby-mc3ilvou-mqyykcgd",
+    "region": "lax",
+    "gamemode": "survival",
+    "connectionUrl": "https://d7d12374-ad7f-40d9-b470-076af8fa38ee-ws.actor.5767a802-5c7c-4563-a266-33c014f7e244.rivet.run"
+  },
+  {
+    "id": "lobby-mc3ilwuw-ijlqcwl3",
+    "region": "syd",
+    "gamemode": "survival",
+    "connectionUrl": "https://3fdb30ff-7a25-4ea2-bf96-caa9b72a942a-ws.actor.1209b936-a8c3-4ae0-b0f5-8ca555035963.rivet.run"
+  },
+  {
+    "id": "lobby-mc3ilzpa-w23cwwwf",
+    "region": "osa",
+    "gamemode": "survival",
+    "connectionUrl": "https://f8dbb3ad-de86-456a-8c21-6898b5de674d-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
+  },
+  {
+    "id": "lobby-mc3ilyio-ua1yjwvr",
+    "region": "osa",
+    "gamemode": "survival",
+    "connectionUrl": "https://b66347c7-5f6c-4f4c-8738-2fb4e80c07e2-ws.actor.71391c29-3a24-4ebb-aca0-02756351451e.rivet.run"
+  },
+  {
     "id": "lobby-mc3im12d-pqpnpkuw",
     "region": "europe",
     "gamemode": "ghoul",
     "connectionUrl": "https://346b976b-0bf3-4d61-ad99-d1b589e63bdc-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
+  },
+  {
+    "id": "lobby-mc3im0nf-va7zewbu",
+    "region": "atl",
+    "gamemode": "ghoul",
+    "connectionUrl": "https://f0d29204-8578-423a-b7ea-244e6193f4e7-ws.actor.6510ffa2-a144-4110-928c-f14b562326b4.rivet.run"
+  },
+  {
+    "id": "lobby-mc3im12d-pqpnpkuw",
+    "region": "fra",
+    "gamemode": "ghoul",
+    "connectionUrl": "https://7cdbd05d-b514-47c6-9150-3e61bb3b2250-ws.actor.5ad08600-6fb8-419e-84ec-b9b1f74aa86a.rivet.run"
   }
 ]`);
